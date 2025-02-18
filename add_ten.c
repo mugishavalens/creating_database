@@ -13,5 +13,5 @@ int main() {
     // Display the result
     printf("Result after adding 10: %d\n", result);
     
-    return 0;
+    return  0;
 }
